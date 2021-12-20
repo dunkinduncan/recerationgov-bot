@@ -9,8 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 WEB_DRIVER_EXEC = "/home/cward/webdrivers/chromedriver_linux64/chromedriver"
 
-USER_NAME = ""
-PASSWORD = ""
+USER_NAME = "duncankincheloe@gmail.com"
+PASSWORD = "Leeballa13!!!!"
 
 # Highly available one https://www.recreation.gov/camping/campgrounds/233543
 # Originally requested  https://www.recreation.gov/camping/campgrounds/232768
